@@ -1,0 +1,2 @@
+This project should currently be located in the D:\Backup\mark_stuff\pointCloudNoVR folder.
+To fetch the point clouds, go to D:\Backup\mark_stuff and drag and drop the contents of the "PCloud" folder to this assets folder.
